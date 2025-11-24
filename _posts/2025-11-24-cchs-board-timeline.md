@@ -9,7 +9,7 @@ tags: [cchs, board, timeline]
 
 ## Prior to 2020
 
-![CCHS Board 2020](/assets/CCHSboardpics/2020.jpg)
+![CCHS Board 2020](https://raw.githubusercontent.com/pspowell/CCHS/refs/heads/main/assets/CCHSboardpics/2020.jpg)
 
 
 **Officers**  
@@ -32,7 +32,7 @@ Bill Bean
 ---
 
 ## 2020 → 2021
-![CCHS Board 2021](/assets/CCHSboardpics/2021.jpg)
+![CCHS Board 2021](https://raw.githubusercontent.com/pspowell/CCHS/refs/heads/main/assets/CCHSboardpics/2021.jpg)
 
 
 **Officers**  
@@ -66,8 +66,7 @@ Beth Adair
 ---
 
 ## 2021 → 2022
-![CCHS Board 2022](/assets/CCHSboardpics/2022.jpg)
-
+![CCHS Board 2022](https://raw.githubusercontent.com/pspowell/CCHS/refs/heads/main/assets/CCHSboardpics/2022.jpg)
 **Officers**  
 - President: Candy Gilliam  
 - Vice President: Sandy Gonzalez  
@@ -94,7 +93,7 @@ Barbara Clark
 ---
 
 ## 2022 → 2023
-![CCHS Board 2023](/assets/CCHSboardpics/2023.jpg)
+![CCHS Board 2023](https://raw.githubusercontent.com/pspowell/CCHS/refs/heads/main/assets/CCHSboardpics/2023.jpg)
 
 **Officers**  
 - President: Candy Gilliam  
@@ -126,7 +125,7 @@ Gregory Harvey
 ---
 
 ## 2023 → 2024
-![CCHS Board 2024](/assets/CCHSboardpics/2024.jpg)
+![CCHS Board 2024](https://raw.githubusercontent.com/pspowell/CCHS/refs/heads/main/assets/CCHSboardpics/2024.jpg)
 **Officers**  
 - President: Terry Koster  
 - Vice President: Sandy Gonzalez  
@@ -157,8 +156,8 @@ Dorothy Case
 ---
 
 ## 2024 → 2025
-![CCHS Board 2025 "Leaders"](/assets/CCHSboardpics/2025a.png)
-![CCHS Board 2025 "Trustees"](/ssets/CCHSboardpics/2025b.png)
+![CCHS Board 2025 "Leaders"](https://raw.githubusercontent.com/pspowell/CCHS/refs/heads/main/assets/CCHSboardpics/2025a.png)
+![CCHS Board 2025 "Trustees"](https://raw.githubusercontent.com/pspowell/CCHS/refs/heads/main/assets/CCHSboardpics/2025b.png)
 **Officers**  
 - President: Terry Koster  
 - Vice President: Dusty Hurst  
