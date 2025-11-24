@@ -1,2 +1,2 @@
-# CCHS
-Matters pertaining to the Champaign County Historical Society
+# pspowell.github.io
+This is just a place where I put my tech stuff
