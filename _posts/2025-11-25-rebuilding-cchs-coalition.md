@@ -28,7 +28,7 @@ Over the last few years, members and volunteers have raised serious concerns abo
 - inconsistent communication,  
 - and a decline in organizational transparency and participation.
 
-These issues are not personal. They are **structural governance problems** — and they are solvable.
+These issues are not personal. They are **structural governance problems** — and they are solvable.  **The board is still comprised of caring, dedicated volunteers**, it just lacks a healthy composition.
 
 Ohio law (ORC 1702) gives members both the *right* and the *responsibility* to ensure nonprofits operate ethically and transparently. Our goal is not conflict; it is **restoration**.
 
