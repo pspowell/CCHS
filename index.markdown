@@ -61,22 +61,13 @@ If you believe in the importance of preserving Champaign County’s history, or 
 👉 **Join the Champaign County Historical Society here:**  
 **[https://www.champaigncountyhistoricalmuseum.org/become-a-member.html](https://www.champaigncountyhistoricalmuseum.org/become-a-member.html)**
 
-Your membership strengthens the coalition, expands the voting base, and ensures that the Society remains accountable to the people it was created to serve.
-
-### Sign up for updates
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdXXXXXXX/viewform?embedded=true"
-        width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0">
-Loading…
-</iframe>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf1XxPlf7QNiLKLAhNP4jxFRY-UiAbnjbN1xlj-MM66TajytQ/viewform?embedded=true" width="640" height="1197" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Your membership strengthens the coalition, expands the voting base, and ensures that the Society remains accountable to the people it was created to serve.  
 
 ## How Members Can Participate
 
 You can join this effort in any of the following ways:
 
-- Add your name to the coalition list  
+- [Add your name to the coalition list here](https://docs.google.com/forms/d/e/1FAIpQLSf1XxPlf7QNiLKLAhNP4jxFRY-UiAbnjbN1xlj-MM66TajytQ/viewform?usp=preview)  
 - Attend upcoming informational meetings  
 - Help review documents  
 - Assist in calling a special meeting (if required)  
