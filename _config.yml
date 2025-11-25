@@ -18,10 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Highland Services
+title: Rebuuild CCHS Board
 email: pspowell@gmail.com
-description: Making complex things a little easier
-url: "www.highserv.com"
+description: 
 twitter_username: pspowell71
 facebook_username:  preston.powell3
 github_username:  pspowell
