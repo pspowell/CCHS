@@ -52,6 +52,17 @@ Rebuilding trust, expanding participation, and re‑energizing CCHS as a respect
 
 ---
 
+### **If You’re Not Yet a Member — PLEASE JOIN**
+
+One of the greatest strengths of any nonprofit — especially a 501(c)(3) — is that **its direction is ultimately determined by its members**, not by any individual board or officer. Membership is what gives the community its voice, its vote, and its legal authority to ensure the organization stays true to its mission.
+
+If you believe in the importance of preserving Champaign County’s history, or if you want to help restore transparency and good governance, the single most powerful step you can take is to **become a member**.
+
+👉 **Join the Champaign County Historical Society here:**  
+**https://www.champaigncountyhistoricalmuseum.org/become-a-member.html**
+
+Your membership strengthens the coalition, expands the voting base, and ensures that the Society remains accountable to the people it was created to serve.
+
 ## How Members Can Participate
 
 You can join this effort in any of the following ways:
