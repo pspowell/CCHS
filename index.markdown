@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# Rebuilding the Champaign County Historical Society  
 ### A Member-Led Coalition for Transparency, Accountability, and Renewal
 
 The Champaign County Historical Society is a community institution — built, funded, and guided by the people of Champaign County. When any nonprofit drifts away from transparency, loses touch with its membership, or becomes shaped by personality rather than mission, it is the responsibility of the members to course‑correct.
