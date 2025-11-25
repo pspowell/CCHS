@@ -21,7 +21,7 @@ This website exists to **organize a coalition of members** committed to restorin
 
 ## Why This Coalition Exists
 
-Over the last few years, members and volunteers have raised serious concerns about:
+Recently, members and volunteers have raised serious concerns about:
 
 - delays or refusals in providing board minutes and membership rosters,  
 - decisions made without adequate member involvement,  
