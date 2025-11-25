@@ -67,7 +67,7 @@ Your membership strengthens the coalition, expands the voting base, and ensures 
 
 You can join this effort in any of the following ways:
 
-- [Add your name to the coalition list here](https://docs.google.com/forms/d/e/1FAIpQLSf1XxPlf7QNiLKLAhNP4jxFRY-UiAbnjbN1xlj-MM66TajytQ/viewform?usp=preview)  
+- **[Add your name to the coalition list here](https://docs.google.com/forms/d/e/1FAIpQLSf1XxPlf7QNiLKLAhNP4jxFRY-UiAbnjbN1xlj-MM66TajytQ/viewform?usp=preview)**
 - Attend upcoming informational meetings  
 - Help review documents  
 - Assist in calling a special meeting (if required)  
