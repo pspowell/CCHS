@@ -7,9 +7,10 @@ tags: [cchs, board, timeline]
 
 # Champaign County Historical Society Board Timeline (2020–2025)
 
-## Prior to 2020
+## 2020
 
 ![CCHS Board 2020](https://raw.githubusercontent.com/pspowell/CCHS/refs/heads/main/assets/CCHSboardpics/2020.jpg)
+https://web.archive.org/web/20201127045709/https://www.champaigncountyhistoricalmuseum.org/board-of-trustees.html
 
 
 **Officers**  
@@ -32,8 +33,8 @@ Bill Bean
 ---
 
 ## 2020 → 2021
-![CCHS Board 2021](https://raw.githubusercontent.com/pspowell/CCHS/refs/heads/main/assets/CCHSboardpics/2021.jpg)
-
+![CCHS Board 2021](https://web.archive.org/web/20210724033938im_/https://www.champaigncountyhistoricalmuseum.org/uploads/6/5/7/0/65707529/board-picture-6-23-2021-2_orig.jpg)
+https://web.archive.org/web/20210724033938/https://www.champaigncountyhistoricalmuseum.org/board-of-trustees.html
 
 **Officers**  
 - President: Gregory Harvey  
@@ -66,7 +67,9 @@ Beth Adair
 ---
 
 ## 2021 → 2022
-![CCHS Board 2022](https://raw.githubusercontent.com/pspowell/CCHS/refs/heads/main/assets/CCHSboardpics/2022.jpg)
+![CCHS Board 2022](https://web.archive.org/web/20220521081634im_/https://www.champaigncountyhistoricalmuseum.org/uploads/6/5/7/0/65707529/board-4-30-22_orig.jpg)
+https://web.archive.org/web/20220521081634/https://www.champaigncountyhistoricalmuseum.org/board-of-trustees.html
+
 **Officers**  
 - President: Candy Gilliam  
 - Vice President: Sandy Gonzalez  
@@ -93,7 +96,8 @@ Barbara Clark
 ---
 
 ## 2022 → 2023
-![CCHS Board 2023](https://raw.githubusercontent.com/pspowell/CCHS/refs/heads/main/assets/CCHSboardpics/2023.jpg)
+![CCHS Board 2023](https://web.archive.org/web/20231003130338im_/https://www.champaigncountyhistoricalmuseum.org/uploads/6/5/7/0/65707529/2023-board_orig.jpg)
+https://web.archive.org/web/20231003130338/https://www.champaigncountyhistoricalmuseum.org/board-of-trustees.html
 
 **Officers**  
 - President: Candy Gilliam  
@@ -125,7 +129,9 @@ Gregory Harvey
 ---
 
 ## 2023 → 2024
-![CCHS Board 2024](https://raw.githubusercontent.com/pspowell/CCHS/refs/heads/main/assets/CCHSboardpics/2024.jpg)
+![CCHS Board 2024](https://web.archive.org/web/20240622083901im_/https://www.champaigncountyhistoricalmuseum.org/uploads/6/5/7/0/65707529/2024-board_orig.jpg)
+https://web.archive.org/web/20240622083901/https://www.champaigncountyhistoricalmuseum.org/board-of-trustees.html
+
 **Officers**  
 - President: Terry Koster  
 - Vice President: Sandy Gonzalez  
@@ -156,8 +162,10 @@ Dorothy Case
 ---
 
 ## 2024 → 2025
-![CCHS Board 2025 "Leaders"](https://raw.githubusercontent.com/pspowell/CCHS/refs/heads/main/assets/CCHSboardpics/2025a.png)
-![CCHS Board 2025 "Trustees"](https://raw.githubusercontent.com/pspowell/CCHS/refs/heads/main/assets/CCHSboardpics/2025b.png)
+![CCHS Board 2025 "Leaders"](https://www.champaigncountyhistoricalmuseum.org/uploads/6/5/7/0/65707529/screenshot-2025-11-06-125925_orig.png)
+![CCHS Board 2025 "Trustees"](https://www.champaigncountyhistoricalmuseum.org/uploads/6/5/7/0/65707529/screenshot-2025-11-06-130108_orig.png)
+https://www.champaigncountyhistoricalmuseum.org/board-of-trustees.html
+
 **Officers**  
 - President: Terry Koster  
 - Vice President: Dusty Hurst  
